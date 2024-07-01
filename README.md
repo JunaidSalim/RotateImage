@@ -1,2 +1,2 @@
 # RotateImage
- Implementation of LeetCode Problem # 47 in Python
+ Implementation of LeetCode Problem # 48 in Python
